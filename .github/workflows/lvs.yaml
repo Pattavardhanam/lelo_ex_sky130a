@@ -4,9 +4,9 @@ on:
   push:
     branches: ["master"]
     paths:
-      - 'design/**.mag'
-      - 'design/**.sch'
-      - 'design/**.sym'
+      - 'design/**/*.mag'
+      - 'design/**/*.sch'
+      - 'design/**/*.sym'
       - 'info.yaml'
       - 'config.yaml'
   workflow_dispatch:
