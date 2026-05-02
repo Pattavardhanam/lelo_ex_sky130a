@@ -2,7 +2,7 @@ name: GDS
 
 on:
   push:
-   branches: ["master"]
+    branches: ["master"]
     paths:
       - 'design/**.mag'
       - 'info.yaml'
