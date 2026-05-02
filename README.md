@@ -1,19 +1,13 @@
-[![GDS](../../actions/workflows/gds.yaml/badge.svg)](../../actions/workflows/gds.yaml)
-[![DRC](../../actions/workflows/drc.yaml/badge.svg)](../../actions/workflows/drc.yaml)
-[![LVS](../../actions/workflows/lvs.yaml/badge.svg)](../../actions/workflows/lvs.yaml)
-[![DOCS](../../actions/workflows/docs.yaml/badge.svg)](../../actions/workflows/docs.yaml)
-
 # Who
 pattavardhanam
 
 # Why
 
-<explain why you made this module>
+Learning analog IC design using FOSS. Example taken is a current mirror
 
 # How
 
-<explain short how you made this module>
-
+Follow Carsten Wulff's AIC 2026 tutorials
 
 # What
 

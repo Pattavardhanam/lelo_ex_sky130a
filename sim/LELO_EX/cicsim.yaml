@@ -4,6 +4,9 @@ options:
 corner:
   Lay: ''
   Sch: ''
+  At : '.param Iinput=5u'
+  Ah : '.param Iinput=10u'
+  Al : '.param Iinput=2.5u'
 ngspice:
   library: LELO_EX_SKY130A
   cell: LELO_EX
